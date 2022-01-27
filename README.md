@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=s1lver6ee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20si1ver6ee%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Habit%20is%20a%20second%20nature.&descAlign=60&descAlignY=50)
 
 <!--
 **si1ver6ee/si1ver6ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
